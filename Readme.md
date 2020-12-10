@@ -1,3 +1,5 @@
+![image-20201209203816996](images/image-20201209203816996.png)
+
 # RFM Analizi & Müşteri Segmentasyonu
 
 
