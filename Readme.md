@@ -40,11 +40,11 @@
 
 # Dosyalar
 
-*data/online_retail_II.xlsx* - veriseti
+*data/online_retail_II.xlsx* - [veriseti](https://github.com/oguzerdo/RFM_Customer_Segmentation/blob/main/data/online_retail_II.xlsx)
 
-*RFM.ipynb* - proje dosyası
+*RFM.ipynb* - [proje dosyası](https://github.com/oguzerdo/RFM_Customer_Segmentation/blob/main/RFM.ipynb)
 
-rfm.pdf - sunum dosyası
+rfm.pdf - [sunum dosyası](https://github.com/oguzerdo/RFM_Customer_Segmentation/blob/main/rfm.pdf)
 
 ## Kullanılan Kütüphaneler
 
