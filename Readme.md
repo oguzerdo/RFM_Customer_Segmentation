@@ -1,6 +1,12 @@
+# RFM Analizi & Müşteri Segmentasyonu
+
+<a href="https://www.oguzerdogan.com/">
+    <img src="https://www.oguzerdogan.com/wp-content/uploads/2020/10/logo_oz.png" width="200" align="right"></a>
+
+
 ![image-20201209203816996](images/image-20201209203816996.png)
 
-# RFM Analizi & Müşteri Segmentasyonu
+
 
 
 
